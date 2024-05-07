@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brandon\\source\\repos\\sdc1-knowledge-check-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874B4A72-37A4-4259-A230-E29B8F4769DA}|SDC1-Knowledge-Check-2.csproj|c:\\users\\brandon\\source\\repos\\sdc1-knowledge-check-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B4A72-37A4-4259-A230-E29B8F4769DA}|SDC1-Knowledge-Check-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874B4A72-37A4-4259-A230-E29B8F4769DA}|SDC1-Knowledge-Check-2.csproj|c:\\users\\brandon\\source\\repos\\sdc1-knowledge-check-2\\classes\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B4A72-37A4-4259-A230-E29B8F4769DA}|SDC1-Knowledge-Check-2.csproj|solutionrelative:classes\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874B4A72-37A4-4259-A230-E29B8F4769DA}|SDC1-Knowledge-Check-2.csproj|c:\\users\\brandon\\source\\repos\\sdc1-knowledge-check-2\\classes\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B4A72-37A4-4259-A230-E29B8F4769DA}|SDC1-Knowledge-Check-2.csproj|solutionrelative:classes\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\sdc1-knowledge-check-2\\Classes\\Property.cs",
+              "RelativeDocumentMoniker": "Classes\\Property.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\sdc1-knowledge-check-2\\Classes\\Property.cs",
+              "RelativeToolTip": "Classes\\Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:11:12.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\sdc1-knowledge-check-2\\Classes\\Apartment.cs",
+              "RelativeDocumentMoniker": "Classes\\Apartment.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\sdc1-knowledge-check-2\\Classes\\Apartment.cs",
+              "RelativeToolTip": "Classes\\Apartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:10:42.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\source\\repos\\sdc1-knowledge-check-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Brandon\\source\\repos\\sdc1-knowledge-check-2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:04:43.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
